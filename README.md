@@ -8,3 +8,10 @@
 For this project
 
 ![Alt text](image.png)
+---
+1. ** Encode secrets **
+
+`
+echo -n "password" | base64
+`
+    
